@@ -1,0 +1,23 @@
+{
+  "name": "@hellohd/disney-ui",
+  "version": "1.0.0",
+  "description": "component UI",
+  "main": "index.ts",
+  "scripts": {
+    "test": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuexihuachen/disney-ui.git"
+  },
+  "keywords": [
+    "dist/",
+    "src/"
+  ],
+  "author": "longwang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuexihuachen/disney-ui/issues"
+  },
+  "homepage": "https://github.com/yuexihuachen/disney-ui#readme"
+}
